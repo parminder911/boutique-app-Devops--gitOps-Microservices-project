@@ -582,3 +582,111 @@ This project demonstrates real-world DevOps, Platform Engineering, Kubernetes Op
                                         End
 ---
 ---
+
+
+
+
+
+
+
+
+
+<img width="1262" height="725" alt="aws cli access key config" src="https://github.com/user-attachments/assets/4ad0f9af-6570-4b1f-901e-ef3e8c1e8671" />
+
+
+<img width="1171" height="298" alt="kubectl nodes done" src="https://github.com/user-attachments/assets/66547052-9e57-441c-951e-38bd4b4aedac" />
+
+
+
+
+<img width="1259" height="586" alt="baston server policy" src="https://github.com/user-attachments/assets/91298a70-e822-4cc9-8538-6bba63d7f64f" />
+
+
+
+<img width="1267" height="481" alt="kubectl load balancer controller" src="https://github.com/user-attachments/assets/f751fd07-7e88-4d6e-bc8c-17a160b5fdc7" />
+
+<img width="1167" height="564" alt="controller lb instaled 5" src="https://github.com/user-attachments/assets/a7e209dd-f8b1-4c3a-8eee-a3dae51b8fa1" />
+
+
+
+<img width="1274" height="384" alt="8policy json creat" src="https://github.com/user-attachments/assets/897c0c68-a3f4-469b-be62-791535991528" />
+<img width="1264" height="285" alt="6 kubectl gateway clas" src="https://github.com/user-attachments/assets/4a68cd1e-7447-412d-9850-7ed801a1de2a" />
+
+
+
+<img width="1196" height="673" alt="13 hudocafe domain argocd" src="https://github.com/user-attachments/assets/1e055860-1510-4572-b332-4fa8389ed99e" />
+
+
+<img width="1231" height="663" alt="15 src edit pipeline run action" src="https://github.com/user-attachments/assets/6c50382c-13a1-4dd8-b927-45455ed3dc84" />
+
+
+<img width="1249" height="605" alt="16 pipeline run succesfufl" src="https://github.com/user-attachments/assets/983ea175-866e-4de5-ad92-6aba739ef2c5" />
+
+
+
+
+<img width="1234" height="674" alt="argocd with code yaml kubectl" src="https://github.com/user-attachments/assets/a25aea0b-8231-45fd-9228-5c40bc8f2299" />
+
+
+
+<img width="1195" height="678" alt="19 hudocafe domain deploy" src="https://github.com/user-attachments/assets/db74581f-83fd-41ab-953c-74dd69a1d9e1" />
+
+
+
+<img width="1190" height="687" alt="22 pic" src="https://github.com/user-attachments/assets/53fe3e8e-2aeb-4944-ad89-47138ca4b21c" />
+
+
+
+
+<img width="1241" height="672" alt="done trigger" src="https://github.com/user-attachments/assets/d5707d42-6d31-491c-80da-79fd55ad9535" />
+
+
+
+
+<img width="1271" height="635" alt="29 alert on slack" src="https://github.com/user-attachments/assets/4b94c77d-4df4-42a2-856e-c4b3ead99ac6" />
+<img width="1265" height="609" alt="27 fdsf" src="https://github.com/user-attachments/assets/1bd785d7-67db-4097-aca3-bd0615fd1944" />
+
+
+
+
+<img width="1277" height="575" alt="30 deply slac" src="https://github.com/user-attachments/assets/0d5f8d6b-3a81-430a-893e-06db1aff1f27" />
+
+
+
+<img width="1268" height="611" alt="31 graphana" src="https://github.com/user-attachments/assets/1b693055-b309-4c9d-a114-26317ba9c634" />
+<img width="1198" height="680" alt="30 grafan login" src="https://github.com/user-attachments/assets/0e8c2c46-8f90-4404-978f-a0490ffa26b1" />
+
+
+
+<img width="1268" height="637" alt="slack ss" src="https://github.com/user-attachments/assets/5dd0706b-a893-4244-905e-74683a1abf84" />
+<img width="1197" height="686" alt="35 promethus matrics" src="https://github.com/user-attachments/assets/b2b58b24-e0a9-48b7-8604-1db196a2b90b" />
+
+
+
+
+<img width="1110" height="701" alt="gtrsph" src="https://github.com/user-attachments/assets/f6f008dc-8dd7-4a51-bd9a-ce5113d67bda" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="1219" height="663" alt="argocd loc" src="https://github.com/user-attachments/assets/974ac573-fc0d-4d26-b576-6d38cd56bb8a" />
+
+
+
+
+<img width="1197" height="653" alt="detaisl argoc d" src="https://github.com/user-attachments/assets/60e9e9dc-6bf1-46e4-ae92-2ddbc11e23f7" />
+
+
+
+<img width="2517" height="1505" alt="Gitops_Project architecture" src="https://github.com/user-attachments/assets/fb02862a-2518-4005-ae9c-20ed00f5a599" />
+
+
+<img width="1250" height="681" alt="gith us" src="https://github.com/user-attachments/assets/436f483a-5c15-4d6f-80fb-604fbd3182ca" />
+
